@@ -14,7 +14,7 @@
 + **BABEL_002** - [Task](https://kodaktor.ru/lab02-03-2018-2.pdf) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/babel_002)
 + **EVENT_002** - [Task](https://kodaktor.ru/evnt_002) | [solution](https://github.com/ripo4ek/UniversityTasks/blob/master/evnt_002.html)
 + **FRMW_00***  
-  + FRMW_001 - [Task](https://kodaktor.ru/frmw_001) | [solution](http://example.com)
+  + FRMW_001 - [Task](https://kodaktor.ru/frmw_001) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-001)
   + FRMW_002 - [Task](https://kodaktor.ru/frmw_002) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-002)
   + FRMW_003 - [Task](https://kodaktor.ru/frmw_003) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-003)
   + FRMW_004 - [Task](https://kodaktor.ru/frmw_004) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-004)
