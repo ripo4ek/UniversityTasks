@@ -1,4 +1,4 @@
-//Ripo4ek - Андрей Ляпустин
+//Ripo4ek - РђРЅРґСЂРµР№ Р›СЏРїСѓСЃС‚РёРЅ
 
 
 const fetch = require("node-fetch");
