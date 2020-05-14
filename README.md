@@ -16,7 +16,7 @@
 + **FRMW_00***  
   + FRMW_001 - [Task](https://kodaktor.ru/frmw_001) | [solution](http://example.com)
   + FRMW_002 - [Task](https://kodaktor.ru/frmw_002) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-002)
-  + FRMW_003 - [Task](https://kodaktor.ru/frmw_003) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw_003)
+  + FRMW_003 - [Task](https://kodaktor.ru/frmw_003) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-003)
   + FRMW_004 - [Task](https://kodaktor.ru/frmw_004) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-004)
   + FRMW_005 - [Task](https://kodaktor.ru/frmw_005) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-005)
   + FRMW_006 - [Task](https://kodaktor.ru/frmw_006) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-006)
