@@ -1,4 +1,5 @@
-# Laboratory works
+# Laboratory works([Github Pages](https://ripo4ek.github.io/UniversityTasks/))
+## Lyapustin Andrey - 2020
 + **FUNC_00***
 
   + FUNC_001 - [Task](https://kodaktor.ru/func_001) | [solution](https://github.com/ripo4ek/UniversityTasks/blob/master/func_tasks/func_001.js)
