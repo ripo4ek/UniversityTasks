@@ -28,4 +28,4 @@
   + FRMW_006 - [Task](https://kodaktor.ru/frmw_006) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-006)
   + FRMW_007 - [Task](https://kodaktor.ru/frmw_007) | [solution](https://github.com/ripo4ek/UniversityTasks/tree/master/frmw_tasks/frmw-007)
   
-+ **YOU** - [Task](https://kodaktor.ru/you) | [solution](http://example.com)
++ **YOU** - [Task](https://kodaktor.ru/you) | [deploy](https://ripo4ek.github.io/reactDeploy/) | [report](https://ripo4ek.github.io/reactDeploy/) |  
